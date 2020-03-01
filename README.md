@@ -1,2 +1,2 @@
 # Quest
-![Behavior Design](models/behavior-design.svg)
+![Behavior Design](design/behavior.svg)
