@@ -1,6 +1,6 @@
 # Quest
 ## Challenge
-- How Might We Improve A Community Member Experience?
+- How Might We Improve An Employeee, Partner, or Customer Community Member Experience?
 ## Opportunity
-- Give Employees Incentive to Learn About Each Other
+- Give Community Members Incentives to Learn About Each Other
 ![Behavior Design](design/behavior.svg)
