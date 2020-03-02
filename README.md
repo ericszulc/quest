@@ -10,8 +10,8 @@ When a user (User A) visits the profile of another user (User B). User A will se
 
 ### Variable Rewards
 By giving rewards unpredictably, users will be more motivated to invoke the action that gives the reward. In this case, we should expect users are more motivated to answer questions to get the reward of finding another user's answer.  
-(C) CUE: Hidden User's Answer. 
-(A) ACTION: Answer Question. 
+(C) CUE: Hidden User's Answer.  
+(A) ACTION: Answer Question.  
 (R) REWARD: Reveal User's Answer. 
 
 ### Goal-Gradient & Set Completion
